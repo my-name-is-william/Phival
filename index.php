@@ -110,7 +110,7 @@
 <div class="container">
     <section class="project-intro">
         <h1>Φval</h1>
-        <h4>A image evaluation system based on neuron network models</h4>
+        <h3>A image evaluation system based on neuron network models</h3>
         <div class="button-container">
             <a href="rating.php">Start Rating Photos</a>
         </div>
