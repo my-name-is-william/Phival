@@ -46,8 +46,8 @@ $db->close();
 
         h4 {
             font-size: 1vw;
-            margin-top: 0.4vw;
-            margin-bottom: 0.4vw;
+            margin-top: 0.35vw;
+            margin-bottom: 0.35vw;
         }
 
         h5 {

@@ -62,10 +62,16 @@ header("Expires: 0");
             margin-bottom: 0px;
         }
 
+        .image{
+            width: 36%;
+        }
+
     </style>
 </head>
 <body>
     <div class="container">
+        <img src="success.svg" class="image">
+        <h1>Thank you for your rating!</h1>
         <a href="rating.php">
             <h2>Rate Again</h2>
         </a>
