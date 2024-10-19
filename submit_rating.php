@@ -33,11 +33,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     
     $db->close();
     
-    header("Location: rating.php");
+    header("Location: success.php");
     exit();
 }else{
-    header("Location: rating.php");
+    header("Location: index.php");
     exit();
 }
 ?>
+
 
